@@ -1,0 +1,16 @@
+{
+  "name": "hng12-backend-01",
+  "version": "1.0.0",
+  "description": "This is the first task given at HNG Internship to all interns",
+  "license": "ISC",
+  "author": "Oluwaseun Osunsola",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
